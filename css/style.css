@@ -1,3 +1,8 @@
 .texto-centrado{
     text-align: center;
 }
+
+body{
+    color: crimson;
+    font-family:  Arial, Helvetica, sans-serif;
+}
