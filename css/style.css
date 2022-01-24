@@ -2,7 +2,18 @@
     text-align: center;
 }
 
-body{
-    color: crimson;
+.header{
+    background-color:crimson;
     font-family:  Arial, Helvetica, sans-serif;
+    color: white;
+    padding: .5rem;
+}
+.texto-centrado{
+    text-align: center;
+}
+.no-margin{
+    margin: 0;
+}
+.h1-no-margin{
+    margin: 0 0 1.5rem 0;
 }
